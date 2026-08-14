@@ -7,7 +7,7 @@ Built as a group project applying Machine Learning and AI techniques to a real-w
 ## Demo
 
 📹 A demo video walking through the system is available [here](https://youtu.be/BQNZ9egJEEU) *(English subbed)*.
-📊 The project presentation is included in this repo: [`presentation.pdf`](./presentation.pdf) *(in Greek)*.
+📊 The project presentation is included in this repo: [`presentation.pptx`](./presentation.pptx) *(in Greek)*.
 
 ## Overview
 
