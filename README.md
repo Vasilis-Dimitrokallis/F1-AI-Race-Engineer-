@@ -72,7 +72,7 @@ The agent decides which tool(s) to call based on the user's natural-language que
    ```bash
    pip install fastf1 pandas numpy scikit-learn xgboost tensorflow matplotlib seaborn google-generativeai
    ```
-2. Open `Project.ipynb` in Jupyter.
+2. Open `AI Race Engineer.ipynb` in Jupyter.
 3. Set your own Google Gemini API key as an environment variable before running the agent cells:
    ```bash
    export GEMINI_API_KEY="your-key-here"
