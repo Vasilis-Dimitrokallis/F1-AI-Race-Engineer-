@@ -61,7 +61,7 @@ The agent decides which tool(s) to call based on the user's natural-language que
 ## Project Structure
 
 ```
-├── Project.ipynb        # Full notebook: EDA, modeling, dashboards, agent
+├── AI Race Engineer.ipynb        # Full notebook: EDA, modeling, dashboards, agent
 ├── presentation.pdf      # Project presentation (in Greek)
 ├── README.md
 ```
