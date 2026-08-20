@@ -16,7 +16,7 @@ The project is structured in four main parts:
 1. **Pit-Stop Classifier** — predicts whether a car should pit on a given lap
 2. **Tire Wear / Remaining Life Model** — predicts how many laps of life remain in a tire set
 3. **Circuit Risk Dashboards** — visualizes high-risk zones on a track based on marshal incident data
-4. **Conversational AI Agent** — a natural-language interface that ties all of the above together, backed by a RAG pipeline over the official FIA regulations
+4. **Conversational AI Agent** — a natural-language interface that ties all of the above together, backed by a RAG pipeline over the official FIA regulations.
 
 ## Data
 
